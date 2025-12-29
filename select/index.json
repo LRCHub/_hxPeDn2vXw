@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "tour",
+  "base_artist": "Hump Back",
+  "createdAt": "2025-12-29T12:54:19.119849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+      "artist": "SZA feat. Justin Timberlake & Oliver Heldens",
+      "has_synced": true,
+      "path": "select/01_The_Other_Side_(From__Trolls_World_Tour_)_[Oliver_Heldens_Remix]_SZA_feat._Justin_Timberlake_&_Oliver_Heldens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Grand Tour",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/02_The_Grand_Tour_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Grand Tour (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/03_The_Grand_Tour_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Grand Tour - Single Version",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/04_The_Grand_Tour_-_Single_Version_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Grand Tour (Single Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/05_The_Grand_Tour_(Single_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Award Tour",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/06_Award_Tour_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Marauders Tour Guide",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/07_Midnight_Marauders_Tour_Guide_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "XO Tour Llif3",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/08_XO_Tour_Llif3_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My British Tour Diary",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/09_My_British_Tour_Diary_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On Tour With Zykos",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/10_On_Tour_With_Zykos_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New Kind of Medicine (Tenaglia's D Tour dub)",
+      "artist": "Ultra Naté",
+      "has_synced": false,
+      "path": "select/11_New_Kind_of_Medicine_(Tenaglia's_D_Tour_dub)_Ultra_Naté.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Gates of Istanbul (Live 2009 Mediterranean Tour)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/12_The_Gates_of_Istanbul_(Live_2009_Mediterranean_Tour)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Biology (Chemistry Tour Live At Wembley)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/13_Biology_(Chemistry_Tour_Live_At_Wembley)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call The Shots (Tangled Up Tour Live From The O2)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/14_Call_The_Shots_(Tangled_Up_Tour_Live_From_The_O2)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Close To Love (Tangled Up Tour Live From The O2)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/15_Close_To_Love_(Tangled_Up_Tour_Live_From_The_O2)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Waiting (Chemistry Tour Live At Wembley)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/16_Waiting_(Chemistry_Tour_Live_At_Wembley)_Girls_Aloud.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tour",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_tour_Hump_Back.txt"
+    }
+  ]
+}
